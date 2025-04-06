@@ -1,0 +1,23 @@
+{
+  "name": "todo-cli",
+  "version": "1.0.0",
+  "description": "A simple CLI todo list manager that allows you to add, remove, update and view tasks.",
+  "main": "index.js",
+  "bin": {
+    "todo": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cli-table3": "^0.6.3"
+  },
+  "keywords": [
+    "cli",
+    "todo",
+    "task-manager"
+  ],
+  "author": "Bakumpe Joseph",
+  "license": "MIT"
+}
