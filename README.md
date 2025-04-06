@@ -19,7 +19,7 @@ A simple command-line interface (CLI) tool for managing your todo list, built wi
 
 1. Clone this repository or download the code:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Bakumpe/todo-app-with-CLI
 cd todo-cli
 ```
 
@@ -33,7 +33,7 @@ npm install
 Run the script using Node.js with the following commands:
 
 ```bash
-node todo.js <command> [arguments]
+todo <command> [arguments]
 ```
 
 ### Available Commands
@@ -102,8 +102,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Built with Node.js
-- Inspired by simple CLI todo list implementations
-```
 
 This README provides:
 - Project overview and features
