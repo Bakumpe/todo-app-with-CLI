@@ -1,5 +1,5 @@
 {
-  "name": "todo-cli",
+  "name": "joseph-todo-cli-app",
   "version": "1.0.0",
   "description": "A simple CLI todo list manager that allows you to add, remove, update and view tasks.",
   "main": "index.js",
